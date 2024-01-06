@@ -10,7 +10,7 @@ function App() {
           Marketplace.
         </h2>
       </div>
-      <div className="md:p-20 md:px-48 px-36 p-10">
+      <div className="md:p-20 md:px-48 px-32 p-10">
         <a
           href="https://1iyiugoup9dxde-3001.proxy.runpod.net/"
           className=" md:p-4  p-2 md:text-2xl font-bold rounded-full bg-white/20 text-white bg-slate-500 hover:bg-slate-600 active:bg-slate-700 focus:outline-none focus:ring focus:ring-slate-300"
